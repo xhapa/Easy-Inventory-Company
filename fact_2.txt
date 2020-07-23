@@ -1,0 +1,7 @@
+                2020-07-06 - 23:58:49                
+                     Cajero:user1                    
+ID   |NOMBRE        |CANT. |UD.MEDIDA|$ X UD |$ X ALL
+901  |biblia        |1     |x1       |10000  |10000  
+803  |Bom Bom Bum   |1     |unidad   |350    |350    
+503  |cloro         |2     |unidad   |4000   |8000   
+Total:$                        18350                        

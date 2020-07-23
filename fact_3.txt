@@ -1,0 +1,7 @@
+                2020-07-06 - 23:59:32                
+                     Cajero:user1                    
+ID   |NOMBRE        |CANT. |UD.MEDIDA|$ X UD |$ X ALL
+203  |pepino        |2     |lb       |1500   |3000   
+202  |brocoli       |4     |lb       |1500   |6000   
+202  |brocoli       |4     |lb       |1500   |6000   
+Total:$                        15000                        

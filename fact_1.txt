@@ -1,0 +1,6 @@
+                2020-07-06 - 23:38:20                
+                     Cajero:user1                    
+ID   |NOMBRE        |CANT. |UD.MEDIDA|$ X UD |$ X ALL
+1001 |yogurt        |1     |unidad   |1500   |1500   
+601  |salchichas    |1     |x5       |3500   |3500   
+Total:$                         5000                        

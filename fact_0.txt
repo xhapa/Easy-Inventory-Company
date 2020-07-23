@@ -1,0 +1,7 @@
+                2020-07-06 - 22:48:17                
+                     Cajero:Admin                    
+ID   |NOMBRE        |CANT. |UD.MEDIDA|$ X UD |$ X ALL
+101  |Manzana       |2     |x1       |1000   |2000   
+702  |lomo res      |1     |lb       |8000   |8000   
+902  |Alicia en el p|1     |unidad   |30000  |30000  
+Total:$                        40000                        

@@ -1,0 +1,5 @@
+                 2020-07-07 - 0:1:22                 
+                     Cajero:user1                    
+ID   |NOMBRE        |CANT. |UD.MEDIDA|$ X UD |$ X ALL
+202  |brocoli       |1     |lb       |1500   |1500   
+Total:$                         1500                        

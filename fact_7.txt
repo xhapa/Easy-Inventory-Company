@@ -1,0 +1,5 @@
+                2020-07-07 - 12:56:50                
+                     Cajero:user1                    
+ID   |NOMBRE        |CANT. |UD.MEDIDA|$ X UD |$ X ALL
+106  |naranja       |6     |docena   |3000   |18000  
+Total:$                        18000                        

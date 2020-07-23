@@ -1,0 +1,6 @@
+                2020-07-07 - 16:35:17                
+                     Cajero:user1                    
+ID   |NOMBRE        |CANT. |UD.MEDIDA|$ X UD |$ X ALL
+803  |Bom Bom Bum   |6     |unidad   |350    |2100   
+301  |zucaritas     |9     |caja     |10000  |90000  
+Total:$                        92100                        

@@ -1,0 +1,5 @@
+                2020-07-07 - 10:48:18                
+                     Cajero:user1                    
+ID   |NOMBRE        |CANT. |UD.MEDIDA|$ X UD |$ X ALL
+101  |Manzana5      |8     |x1       |1000   |8000   
+Total:$                         8000                        
